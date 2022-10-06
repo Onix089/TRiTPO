@@ -1,4 +1,4 @@
-**<p style="text-align: center;">ONIXOFT</p><br>**
+p=.ONIXOFT
 
 <p style="text-align: center;">УТВЕРЖДАЮ</p>
 
